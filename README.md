@@ -1,2 +1,2 @@
 
-![Big Header](https://avatars0.githubusercontent.com/u/44698989?s=460&v=4 "大头贴")
+![Big Header](https://github.com/One-One-Code/Individual-Resume/blob/master/%E6%8A%80%E8%83%BD%E4%BB%8B%E7%BB%8D.jpg?raw=true "大技能")
